@@ -1,5 +1,3 @@
-Steven Van
-
 The following program is an image viewer that takes in PPM formatted files
 and views the image as colored ASCII characters. This code will read in PPM
 formats of both ASCII and binary type and read in the pixels. These pixels
