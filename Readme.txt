@@ -1,9 +1,0 @@
-The following program is an image viewer that takes in PPM formatted files
-and views the image as colored ASCII characters. This code will read in PPM
-formats of both ASCII and binary type and read in the pixels. These pixels
-will then be used to determine the luminosity and color to print out. The
-result of this should display the image rendered as colored ASCII values.
-But with the terminal, the rendered pixels is limited by the size of the
-terminal. Downsizing is necessary in order to accommodate for the character
-cap. Execution of the code should provide the PPM's header details, then the
-image rendered.
