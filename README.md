@@ -4,13 +4,13 @@ An image viewer that takes in PPM formatted files and views the image as colored
 
 ## Project Samples
 
-**Image 1**
+**Image 1**\
 ![Reference 1](./images/reference1.png) ![Image 1](./images/image1.png)
 
-**Image 2**
+**Image 2**\
 ![Reference 2](./images/reference2.png) ![Image 2](./images/image2.png)
 
-**Image 3**
+**Image 3**\
 ![Reference 3](./images/reference3.png) ![Image 3](./images/image3.png)
 
 ## Launching the Application
